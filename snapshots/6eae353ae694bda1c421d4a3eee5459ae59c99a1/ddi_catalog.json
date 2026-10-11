@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "upstream_commit": "6eae353ae694bda1c421d4a3eee5459ae59c99a1",
+  "ddi_build": "27A5228h",
+  "backup_base": "",
+  "plans": [
+    {
+      "key": "legacy-16.0",
+      "build": null,
+      "title": "Legacy 16.0",
+      "ios": "iOS 16.0.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.0/DeveloperDiskImage.dmg",
+          "size": 8464365,
+          "sha256": "429d2d05b7c9093f214b117a26571fa7d9596c5ff03e7983b70caff743f0afb1",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.0/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "d30ae9c12874254c5cb453abb7c412c6796913e5533de6b68f1b28f435981100",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.1",
+      "build": null,
+      "title": "Legacy 16.1",
+      "ios": "iOS 16.1.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.1/DeveloperDiskImage.dmg",
+          "size": 8448885,
+          "sha256": "086bf1c1a278615e60dd5ce2d2ff55a21996bbdef3dc67df20e209e7dcd48558",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.1/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "54b0ad8113231b1e11faebfdae4b347b482ed12dbe8caf155d25b17e74b1a60e",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.2",
+      "build": null,
+      "title": "Legacy 16.2",
+      "ios": "iOS 16.2.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.2/DeveloperDiskImage.dmg",
+          "size": 8466283,
+          "sha256": "d30f6d1274e1300910cd22c1104136006f0c55e28110b16cf20ed1ec48fad0e5",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.2/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "247aa8dd50dea880437a1fabfda21552971f88d39384aca6f13d2c0eba7bdac0",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.3",
+      "build": null,
+      "title": "Legacy 16.3",
+      "ios": "iOS 16.3.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.3/DeveloperDiskImage.dmg",
+          "size": 8466283,
+          "sha256": "d30f6d1274e1300910cd22c1104136006f0c55e28110b16cf20ed1ec48fad0e5",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.3/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "247aa8dd50dea880437a1fabfda21552971f88d39384aca6f13d2c0eba7bdac0",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.4",
+      "build": null,
+      "title": "Legacy 16.4",
+      "ios": "iOS 16.4.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.4/DeveloperDiskImage.dmg",
+          "size": 7432520,
+          "sha256": "6e4449ff8c751b4432934ade838382c79330b096b865eebabbc1fa42ead9c185",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.4/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "4e82ee8aa75c5ecdd320e075b7d9e4ea2fc1915d0bb776007e8dbc5728ca5d86",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.5",
+      "build": null,
+      "title": "Legacy 16.5",
+      "ios": "iOS 16.5.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.5/DeveloperDiskImage.dmg",
+          "size": 7427565,
+          "sha256": "99fcf9a7300ab2504a2b9a79f210702f2f6d6eb056053fc8517b80a6a3e18a16",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.5/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "355169a9753c23fff95f6ebc1e39a433f653a9e0e059580642d92629c1ac0071",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.6",
+      "build": null,
+      "title": "Legacy 16.6",
+      "ios": "iOS 16.6.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.6/DeveloperDiskImage.dmg",
+          "size": 7432520,
+          "sha256": "6e4449ff8c751b4432934ade838382c79330b096b865eebabbc1fa42ead9c185",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.6/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "4e82ee8aa75c5ecdd320e075b7d9e4ea2fc1915d0bb776007e8dbc5728ca5d86",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "legacy-16.7",
+      "build": null,
+      "title": "Legacy 16.7",
+      "ios": "iOS 16.7.x",
+      "assets": [
+        {
+          "name": "DeveloperDiskImage.dmg",
+          "remote": "DeveloperDiskImages/16.7/DeveloperDiskImage.dmg",
+          "size": 7432520,
+          "sha256": "6e4449ff8c751b4432934ade838382c79330b096b865eebabbc1fa42ead9c185",
+          "limit": 1073741824
+        },
+        {
+          "name": "DeveloperDiskImage.dmg.signature",
+          "remote": "DeveloperDiskImages/16.7/DeveloperDiskImage.dmg.signature",
+          "size": 128,
+          "sha256": "4e82ee8aa75c5ecdd320e075b7d9e4ea2fc1915d0bb776007e8dbc5728ca5d86",
+          "limit": 1048576
+        }
+      ]
+    },
+    {
+      "key": "personalized-27A5228h",
+      "build": "27A5228h",
+      "title": "Personalized",
+      "ios": "iOS 17.4～26",
+      "assets": [
+        {
+          "name": "BuildManifest.plist",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Personalized/BuildManifest.plist",
+          "size": 801505,
+          "sha256": "8edd4a2f4f4ef1fbd7bfe49785d8badc673d1395d1d94d85b132ca8ab5ecaf54",
+          "limit": 8388608
+        },
+        {
+          "name": "Image.dmg",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Personalized/Image.dmg",
+          "size": 15733248,
+          "sha256": "05fd807da5e19f030fa4941f24800c965c6c77982ab572dd5d1ef778fb69f9ca",
+          "limit": 1073741824
+        },
+        {
+          "name": "Image.trustcache",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Personalized/Image.dmg.trustcache",
+          "size": 1895,
+          "sha256": "36af60889ff5a737874a26daeb8e1a0139ebfebec6ec2e4d8f6a3c1bf1dce35c",
+          "limit": 8388608
+        }
+      ]
+    },
+    {
+      "key": "cryptex-27A5228h",
+      "build": "27A5228h",
+      "title": "Cryptex",
+      "ios": "iOS 27+",
+      "assets": [
+        {
+          "name": "BuildManifest.plist",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Cryptex/BuildManifest.plist",
+          "size": 804946,
+          "sha256": "27385d7582b03b36bb3104e22b520aee0c47d72fecb4e8ecfe12ef5d966c7012",
+          "limit": 8388608
+        },
+        {
+          "name": "Image.dmg",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Cryptex/Image.dmg",
+          "size": 15895040,
+          "sha256": "873097f695a8b9734e2abc54f795a8874d40ff6fd11208ecb01ef29534c7c176",
+          "limit": 1073741824
+        },
+        {
+          "name": "Image.dmg.trustcache",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Cryptex/Image.dmg.trustcache",
+          "size": 1895,
+          "sha256": "f7f21986074eee03a215aca16ecfc78d6bf183600d8a0d2fb691f9896782e6f0",
+          "limit": 8388608
+        },
+        {
+          "name": "Image.dmg.cryptex_info",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Cryptex/Image.dmg.cryptex_info",
+          "size": 430,
+          "sha256": "edf49aef55aacc063d4d7be05b713bb545ce2993b3f62bcc15eccd75e610ee6c",
+          "limit": 8388608
+        },
+        {
+          "name": "Image.dmg.root_hash",
+          "remote": "PersonalizedImages/Xcode_iOS_DDI_Cryptex/Image.dmg.root_hash",
+          "size": 229,
+          "sha256": "3543fad2805b88119695c417e12679380b3b5a2742994bbcc839c8e2de5d7302",
+          "limit": 1048576
+        }
+      ]
+    }
+  ]
+}
